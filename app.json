@@ -45,12 +45,7 @@
       "value": "https://graph.org/file/918101d0ad6b1207e6201.png",
       "required": true
     }
-  },
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "eco"
-    }
+
   },
   "addons": [],
   "buildpacks": [
